@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <h3>Sobre mim</h3>
+  <h3>Sobre mim ✨️</h3>
 </p>
 
 - Desenvolvedor de sistemas e automações em JavaScript com mais de 2 anos de experiência, focado no ecossistema de backend e no desenvolvimento de soluções de alta performance. 
@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <h3>Technical Skills</h3>
+  <h3>Coisas que trabalho atualmente 👨🏻‍💻</h3>
 </p>
 
 ### Back-end & Core
@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <h3>Redes e Contato</h3>
+  <h3>Redes e Contato 🪻</h3>
 </p>
 
 <p align="center">
