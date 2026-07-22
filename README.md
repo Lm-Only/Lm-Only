@@ -1,24 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8848ff&height=120&section=header"/>
+
 <p align="center">
   <h1>Lm Only 👑</h1>
   <p>Crio bots, APIs e automações em JavaScript — sempre buscando performance e simplicidade real.</p>
 </p>
 
----
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Lm-Only/Lm-Only/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Lm-Only/Lm-Only/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/Lm-Only">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lm-Only&show_icons=true&theme=tokyonight&count_private=true" />
-  </a>
-  <a href="https://github.com/Lm-Only">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lm-Only&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Lm-Only&theme=tokyonight" />
-</p>
-
----
+###
 
 ## Sobre mim ✨️
 
