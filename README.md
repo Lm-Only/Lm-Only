@@ -14,7 +14,7 @@
 
 ## Sobre mim ✨️
 
-Sou desenvolvedor de sistemas e automa��ões principalmente em JavaScript. Em pouco mais de dois anos encontrei meu lugar construindo bots para WhatsApp, APIs leves e rotinas que precisam escalar sem complicar. Gosto de código feito com calma: legível, testável e otimizado — sem mágica, só esforço bem aplicado.
+Sou desenvolvedor de sistemas e automações principalmente em JavaScript. Em pouco mais de dois anos encontrei meu lugar construindo bots para WhatsApp, APIs leves e rotinas que precisam escalar sem complicar. Gosto de código feito com calma: legível, testável e otimizado — sem mágica, só esforço bem aplicado.
 
 Algumas coisas que me definem:
 - Código artesanal: prefiro entender e escrever a lógica do começo ao fim.
