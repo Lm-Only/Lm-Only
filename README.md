@@ -40,27 +40,15 @@ Algumas coisas que me definem:
 
 1) HutaoBot V10
 - Link: https://github.com/Lm-Only/HutaoBot
-- Descrição (natural): 𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭-𝐌𝐃 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.  
-- Linguagens: JavaScript (≈99.6%), Shell (≈0.4%)  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lm-Only&repo=HutaoBot&theme=tokyonight" alt="HutaoBot" />
-</p>
+- 𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.  
 
 2) fast-yt-search  
 - Link: https://github.com/Lm-Only/fast-yt-search  
-- Descrição (natural): Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lm-Only&repo=fast-yt-search&theme=tokyonight" alt="fast-yt-search" />
-</p>
+- Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.
 
-3) up-x  
-- Link: https://github.com/Lm-Only/up-x  
-- Descrição (natural): Ferramenta leve para fazer uploads ao servidor do HutaoBot-MD — criada para facilitar deploys e transferências sem dor de cabeça.  
-- Linguagens: JavaScript (100%)  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lm-Only&repo=up-x&theme=tokyonight" alt="up-x" />
-</p>
-
+3) Yuta Bot
+- Link: https://github.com/Lm-Only/YutaBot-MD  
+- Bot Parceiro.
 ---
 
 ## O que eu construo
