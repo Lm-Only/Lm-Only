@@ -14,7 +14,7 @@
 
 ## Sobre mim ✨️
 
-Sou desenvolvedor de sistemas e automações principalmente em JavaScript. Em pouco mais de dois anos encontrei meu lugar construindo bots para WhatsApp, APIs leves e rotinas que precisam escalar sem complicar. Gosto de código feito com calma: legível, testável e otimizado — sem mágica, só esforço bem aplicado.
+Sou desenvolvedor de sistemas e automações principalmente em JavaScript. ☕️ Em pouco mais de dois anos encontrei meu lugar construindo bots para WhatsApp, APIs leves e rotinas que precisam escalar sem complicar. Gosto de código feito com calma: legível, testável e otimizado — sem mágica, só esforço bem aplicado.
 
 Algumas coisas que me definem:
 - Código artesanal: prefiro entender e escrever a lógica do começo ao fim.
@@ -36,22 +36,19 @@ Algumas coisas que me definem:
 
 ---
 
-## Principais Projetos
+## Principais Projetos 🌟
 
-1) HutaoBot V10
-- Link: https://github.com/Lm-Only/HutaoBot
-- 𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.  
+• [__HutaoBot_V10__](https://github.com/Lm-Only/HutaoBot) 👑
+> **𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.**
 
-2) fast-yt-search  
-- Link: https://github.com/Lm-Only/fast-yt-search  
-- Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.
+• [__fast-yt-search__](https://github.com/Lm-Only/fast-yt-search) 💎
+> **Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.**
 
-3) Yuta Bot
-- Link: https://github.com/Lm-Only/YutaBot-MD  
-- Bot Parceiro.
+• [__Yuta_Bot__](https://github.com/Lm-Only/YutaBot-MD) 🔮
+> **Bot parceiro Desenvolvido por @Nk-Petrov**
 ---
 
-## O que eu construo
+## O que construo? 
 - APIs e microsserviços enxutos, com foco em latência e manutenção.
 - Automação para operações repetitivas e pipelines de deploy simples.
 - Bots com integrações práticas, pensando sempre em uso real (muitos usuários, poucas falhas).
@@ -67,10 +64,3 @@ Gosto de conversar sobre código e parcerias. Me encontra por aqui:
   <a href="https://linktr.ee/hutaobot" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
 
-Se quiser adicionar um e-mail, portfólio ou outras redes, me fala que eu incluo com jeitinho.
-
----
-
-Se curtiu e quiser apoiar: compartilhe, abra um issue, contribua com ideias ou me envie uma proposta de parceria.  
-
-Feito à mão com atenção — Lm-Only ❤️
