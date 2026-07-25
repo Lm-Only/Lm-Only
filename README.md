@@ -38,13 +38,10 @@ Algumas coisas que me definem:
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/C-7F00FF?style=flat-square&logo=C&logoColor=white" alt="C" />
 </p>
+
 ------------------
 
-<details>
-  <summary>
-
 ## Principais Projetos 🌟
-  </summary>
 
 • [__HutaoBot V10__](https://github.com/Lm-Only/HutaoBot) 👑
 > **𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.**
@@ -55,7 +52,6 @@ Algumas coisas que me definem:
 • [__Yuta Bot__](https://github.com/Lm-Only/YutaBot-MD) 🔮
 > **Bot parceiro Desenvolvido por @Nk-Petrov**
 
-</details>
 ------------------
 
 ## O que construo? 
@@ -73,5 +69,6 @@ Gosto de conversar sobre código e parcerias. Me encontra por aqui:
   <a href="https://instagram.com/lm_only_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linktr.ee/hutaobot" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
+
 ------------------
 
