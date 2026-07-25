@@ -5,10 +5,10 @@
   <p>Crio bots, APIs e automações em JavaScript — sempre buscando performance e simplicidade real.</p>
 </p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Lm-Only/Lm-Only/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Lm-Only/Lm-Only/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# Activity OverView 📈
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lm-Only&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lm-Only&theme=tokyonight" />
 
 ###
 
@@ -17,13 +17,13 @@
 Sou desenvolvedor de sistemas e automações principalmente em JavaScript. ☕️ Em pouco mais de dois anos encontrei meu lugar construindo bots para WhatsApp, APIs leves e rotinas que precisam escalar sem complicar. Gosto de código feito com calma: legível, testável e otimizado — sem mágica, só esforço bem aplicado.
 
 Algumas coisas que me definem:
-- Código artesanal: prefiro entender e escrever a lógica do começo ao fim.
-- Otimização prática: não é só microbenchmarks — é estabilidade e resposta no mundo real.
-- Ferramenta, não muleta: IA quando ajuda, não para substituir raciocínio.
+- VibeCoding, Coding practice e Testes de desempenho bruto.
+- Otimização inteligente, exeperimentos e analises.
+- Usar IA ou ajuda apenas quando realmente for necessario.
 
 ---
 
-## Tecnologias que uso
+## Tecnologias que já usei
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
@@ -32,6 +32,7 @@ Algumas coisas que me definem:
   <img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/C-7F00FF?style=flat-square&logo=C&logoColor=white" alt="C" />
 </p>
 
 ---
