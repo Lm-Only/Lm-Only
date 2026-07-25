@@ -38,13 +38,13 @@ Algumas coisas que me definem:
 
 ## Principais Projetos 🌟
 
-• [__HutaoBot_V10__](https://github.com/Lm-Only/HutaoBot) 👑
+• [__HutaoBot V10__](https://github.com/Lm-Only/HutaoBot) 👑
 > **𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.**
 
 • [__fast-yt-search__](https://github.com/Lm-Only/fast-yt-search) 💎
 > **Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.**
 
-• [__Yuta_Bot__](https://github.com/Lm-Only/YutaBot-MD) 🔮
+• [__Yuta Bot__](https://github.com/Lm-Only/YutaBot-MD) 🔮
 > **Bot parceiro Desenvolvido por @Nk-Petrov**
 ---
 
