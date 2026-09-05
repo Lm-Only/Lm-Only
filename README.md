@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1>Lm Only 👑</h1>
-  <p>Crio bots, APIs e automações em JavaScript — sempre buscando performance e simplicidade real.</p>
+  <p>Crio bots, APIs e automações em JavaScript/Typescript — sempre buscando evoluir na área.</p>
 </p>
 
 # Activity OverView 📈
@@ -15,27 +15,35 @@
 <details>
   <summary>
 
-## Sobre mim 👨🏻‍💻
+ <b>Sobre mim 👨🏻‍💻</b>
 
  </summary>
 
-Sou desenvolvedor de sistemas e automações principalmente em JavaScript. ☕️ Em pouco mais de dois anos encontrei meu lugar construindo bots para WhatsApp, APIs leves e rotinas que precisam escalar sem complicar. Gosto de código feito com calma: legível, testável e otimizado — sem mágica, só esforço bem aplicado.
+* Sou desenvolvedor há mais de 2 anos, trabalho no desenvolvimento de sistemas e automações focadas no BackEnd. Minhas principal linguagem de programação é JavaScript, junto com Typescript para manter tudo em ordem.
+* Gosto mais de fazer tudo manualmente, envitando ao máximo o uso de Ajudas extras (IA por exemplo).
+* A maioria dos meus projetos são focados em solucionar problemas, como por exemplo a HutaoBot, módulo Yuta APIs e entre outros.
+* Ainda sou iniciante em muitas partes, geralmente minhas experiência na área são mais pelo hobbie.
 
-Algumas coisas que me definem:
-- VibeCoding, Coding practice e Testes de desempenho bruto.
-- Otimização inteligente, exeperimentos e analises.
-- Usar IA ou ajuda apenas quando realmente for necessario.
 </details>
 
-## Tecnologias que já usei
+## Principais Tecnologias/Linguagens usadas
+
 <p>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
-   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+</p>
+
+
+## Tecnologias/Linguagens que uso de vez enquando
+
+<p>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/C-7F00FF?style=flat-square&logo=C&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ------------------
@@ -48,8 +56,8 @@ Algumas coisas que me definem:
 • [__fast-yt-search__](https://github.com/Lm-Only/fast-yt-search) 💎
 > **Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.**
 
-• [__Yuta Bot__](https://github.com/Lm-Only/YutaBot-MD) 🔮
-> **Bot parceiro Desenvolvido por @Nk-Petrov**
+• [__Yuta APIS__](https://github.com/Lm-Only/yutaapis) 🔮
+> **Módulo SDK TypeScript/JavaScript desenvolvido para consumo do Yuta APIs; em parceria com HutaoBot**
 
 ------------------
 
