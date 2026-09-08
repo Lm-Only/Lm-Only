@@ -57,7 +57,7 @@
 > **Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.**
 
 • [__Yuta APIS__](https://github.com/Lm-Only/yutaapis) 🔮
-> **Módulo SDK TypeScript/JavaScript desenvolvido para consumo do Yuta APIs; em parceria com HutaoBot**
+> **Módulo SDK TypeScript/JavaScript desenvolvido para facilitar a integração e o uso do [Yuta APIs](https://yuta-apis.xyz) em projetos de forma mais simples e profissional.**
 
 ------------------
 
