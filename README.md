@@ -48,19 +48,6 @@
 
 ------------------
 
-## Principais Projetos 🌟
-
-• [__HutaoBot V10__](https://github.com/Lm-Only/HutaoBot) 👑
-> **𝐇𝐮𝐭𝐚𝐨𝐁𝐨𝐭 desenvolvida para oferecer uma conexão estável e segura entre usuários e automações no WhatsApp — ele evoluiu com foco em performance e confiabilidade, e reúne muita lógica prática para bots em escala.**
-
-• [__fast-yt-search__](https://github.com/Lm-Only/fast-yt-search) 💎
-> **Um scraper rápido e otimizado para Node.js — pensado para buscas ágeis no YouTube quando você precisa de resultados com baixo overhead. Simples, direto e focado em velocidade.**
-
-• [__Yuta APIS__](https://github.com/Lm-Only/yutaapis) 🔮
-> **Módulo SDK TypeScript/JavaScript desenvolvido para facilitar a integração e o uso do [Yuta APIs](https://yuta-apis.xyz) em projetos de forma mais simples e profissional.**
-
-------------------
-
 ## O que construo? 
 - APIs e microsserviços enxutos, com foco em latência e manutenção.
 - Automação para operações repetitivas e pipelines de deploy simples.
